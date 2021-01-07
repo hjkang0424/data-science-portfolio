@@ -25,4 +25,5 @@ Portfolio of data science projects for academic and self learning purpose.
     - Design an ER Diagram
     - Write a schema
     - Database creation using SQL
-    - Normalization. 
+    - Normalization
+    Details about the work are accessible at the following link: 티스토리 링크 붙이기 
