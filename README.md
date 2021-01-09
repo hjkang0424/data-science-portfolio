@@ -11,6 +11,7 @@ Portfolio of data science projects for academic and self learning purpose.
 - **[Empirical_Asset_Pricing_using_Machine_Learning](https://github.com/hjkang0424/data-science-portfolio/blob/main/Empirical_Asset_Pricing_using_Machine_Learning.ipynb)**: Predict S&P 500 excess return by feeding 6 interest rate related characteristics and 7 primary stock characteristics. Apply different machine learning methods to select the model with best accuracy. 
 
   - Lasso regression, Gradient Boosting Regression Tree, Random Forest, Support Vector Regression, Ridge regression, Long Short Term Memory, Ordinary Least Squares
+  - Visit [Here](https://hyohyokang.tistory.com/2) for detailed explanation of the project
   
  
  - **Prediction of PUBG Winning Placement** : Predict players' finishing placement based on their final stats, on a scale from 1(first place) to 0(last place) using player features data such as number of kills, type of weapon used, walking distance, and so on.    
