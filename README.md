@@ -8,7 +8,7 @@ Portfolio of data science projects for academic and self learning purpose.
 - **Bike Sharing Demand Prediction with Machine Learning Approaches** : Make use of bike sharing data to identify any patterns and use different algorithms to build models to predict the demand of bike sharing. Find the best performing model for prediction of bike sharing demand using empirical datasets
 
   - Lasso regression, Random Forest, Gradient Boosting Regression Tree, K nearest neighbors, Neural Network 
-- **[Empirical_Asset_Pricing_using_Machine_Learning]**(https://github.com/hjkang0424/data-science-portfolio/blob/main/Empirical_Asset_Pricing_using_Machine_Learning.ipynb): Predict S&P 500 excess return by feeding 6 interest rate related characteristics and 7 primary stock characteristics. Apply different machine learning methods to select the model with best accuracy. 
+- **[Empirical_Asset_Pricing_using_Machine_Learning](https://github.com/hjkang0424/data-science-portfolio/blob/main/Empirical_Asset_Pricing_using_Machine_Learning.ipynb)**: Predict S&P 500 excess return by feeding 6 interest rate related characteristics and 7 primary stock characteristics. Apply different machine learning methods to select the model with best accuracy. 
 
   - Lasso regression, Gradient Boosting Regression Tree, Random Forest, Support Vector Regression, Ridge regression, Long Short Term Memory, Ordinary Least Squares
   
