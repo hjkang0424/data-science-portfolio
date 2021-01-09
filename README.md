@@ -1,6 +1,6 @@
 # data-science-portfolio
 Portfolio of data science projects for academic and self learning purpose.
-
+Visit [Here](https://hyohyokang.tistory.com/category/Project) for more explanation of the project.
 ### 1. Machine Learning & Visualization (Python)
 - **Tree-like Topology Reconstruction Using Link Prediction Methods** : Link prediction on Huawei's tree-like mobile broadband topology dataset to find missing edges between routers and base station through the microwave
   - SEAL, Hyperbolic Graph Convolutional Network, node2vec with logistic regression, node2vec with Light GBM
@@ -10,9 +10,7 @@ Portfolio of data science projects for academic and self learning purpose.
   - Lasso regression, Random Forest, Gradient Boosting Regression Tree, K nearest neighbors, Neural Network 
 - **[Empirical_Asset_Pricing_using_Machine_Learning](https://github.com/hjkang0424/data-science-portfolio/blob/main/Empirical_Asset_Pricing_using_Machine_Learning.ipynb)**: Predict S&P 500 excess return by feeding 6 interest rate related characteristics and 7 primary stock characteristics. Apply different machine learning methods to select the model with best accuracy. 
 
-  - Lasso regression, Gradient Boosting Regression Tree, Random Forest, Support Vector Regression, Ridge regression, Long Short Term Memory, Ordinary Least Squares
-  - Visit [Here](https://hyohyokang.tistory.com/2) for detailed explanation of the project
-  
+  - Lasso regression, Gradient Boosting Regression Tree, Random Forest, Support Vector Regression, Ridge regression, Long Short Term Memory, Ordinary Least Squares  
  
  - **Prediction of PUBG Winning Placement** : Predict players' finishing placement based on their final stats, on a scale from 1(first place) to 0(last place) using player features data such as number of kills, type of weapon used, walking distance, and so on.    
     - Linear regression, Principal Component Analysis, Ridge regression, Lasso regression, Decision Tree, Random Forest
