@@ -25,4 +25,4 @@ Visit [Here](https://hyohyokang.tistory.com/category/Project) for more explanati
     - Write a schema
     - Database creation using SQL
     - Normalization
-    Details about the work are accessible [Here] (https://hyohyokang.tistory.com/5)
+    Details about the work are accessible [Here](https://hyohyokang.tistory.com/5)
