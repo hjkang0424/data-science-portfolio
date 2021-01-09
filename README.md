@@ -25,4 +25,4 @@ Visit [Here](https://hyohyokang.tistory.com/category/Project) for more explanati
     - Write a schema
     - Database creation using SQL
     - Normalization
-    Details about the work are accessible at the following link: 티스토리 링크 붙이기 
+    Details about the work are accessible [Here] (https://hyohyokang.tistory.com/5)
