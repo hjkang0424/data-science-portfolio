@@ -15,7 +15,7 @@ Visit [Here](https://hyohyokang.tistory.com/category/Project) for more explanati
  - **Prediction of PUBG Winning Placement** : Predict players' finishing placement based on their final stats, on a scale from 1(first place) to 0(last place) using player features data such as number of kills, type of weapon used, walking distance, and so on.    
     - Linear regression, Principal Component Analysis, Ridge regression, Lasso regression, Decision Tree, Random Forest
     
-- **Comparative Analysis of iPhone 12 vs. Galaxy S20 Release Sentiments in Twitter**: Use tweets from Twitter to compare and analyze the sentiments and public views of iPhone 12 and Galaxy S20. 
+- **[Comparative Analysis of iPhone 12 vs. Galaxy S20 Release Sentiments in Twitter](https://github.com/hjkang0424/data-science-portfolio/blob/main/IPhone_Sentiment_Analsis_Complete.ipynb)**: Use tweets from Twitter to compare and analyze the sentiments and public views of iPhone 12 and Galaxy S20. 
 
   - Sentiment Analysis using VADER, Frequency Analysis, Wordcloud 
  
