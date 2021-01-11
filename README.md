@@ -20,9 +20,8 @@ Visit [Here](https://hyohyokang.tistory.com/category/Project) for more explanati
   - Sentiment Analysis using VADER, Frequency Analysis, Wordcloud 
  
 ### 2. Database management (SQL)
-  - **Information Management system of School** : Design an information management system of school by doing the following : 
+  - **[Information Management system of School](https://hyohyokang.tistory.com/5)** : Design an information management system of school by doing the following : 
     - Design an ER Diagram
     - Write a schema
     - Database creation using SQL
     - Normalization
-    Details about the work are accessible [Here](https://hyohyokang.tistory.com/5)
