@@ -15,7 +15,7 @@ Portfolio of data science projects for academic purpose, worked as a team.
    - Sentiment Analysis using VADER, Frequency Analysis, Wordcloud 
  
  - **Tree-like Topology Reconstruction Using Link Prediction Methods** : Link prediction on Huawei's tree-like mobile broadband topology dataset to find missing edges between routers and base station through the microwave
-  - SEAL, Hyperbolic Graph Convolutional Network, node2vec with logistic regression, node2vec with Light GBM
+   - SEAL, Hyperbolic Graph Convolutional Network, node2vec with logistic regression, node2vec with Light GBM
   
   
 ### 2. Database management (SQL)
