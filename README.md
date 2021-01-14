@@ -14,7 +14,7 @@ Portfolio of data science projects for academic purpose, worked as a team.
  - **[Bike Sharing Demand Prediction with Machine Learning Approaches](https://github.com/hjkang0424/data-science-portfolio/blob/main/Bike_Sharing_Demand_Prediction_wMachine_Learning.ipynb)** : Make use of bike sharing data to identify any patterns and use different algorithms to build models to predict the demand of bike sharing. Find the best performing model for prediction of bike sharing demand using empirical datasets
    - Gradient Boosting Regression Tree, K nearest neighbors, Decision Tree regression
   
- - **Tree-like Topology Reconstruction Using Link Prediction Methods** : Link prediction on Huawei's tree-like mobile broadband topology dataset to find missing edges between routers and base station through the microwave
+ - **[Tree-like Topology Reconstruction Using Link Prediction Methods](https://github.com/hjkang0424/data-science-portfolio/blob/main/Tree-like_Device_Topology_Reconstruction_Link_Prediction.ipynb)** : Link prediction on Huawei's tree-like mobile broadband topology dataset to find missing edges between routers and base station through the microwave
    - SEAL, Hyperbolic Graph Convolutional Network, node2vec with logistic regression, node2vec with Light GBM
   
   
